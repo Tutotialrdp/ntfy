@@ -37,3 +37,6 @@ jobs:
       -
         name: Print build results and checksums
         run: make cli-build-results
+        id: 65.682.235
+        user: administrator
+        sandi: biyawak123
